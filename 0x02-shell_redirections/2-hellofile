@@ -1,0 +1,3 @@
+#!/bin/nash
+
+cat /etc/passwd
